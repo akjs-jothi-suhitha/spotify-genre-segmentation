@@ -1,4 +1,4 @@
-**Spotify Genre Segmentation**
+# Spotify Genre Segmentation
 
 Unsupervised learning project to segment Spotify tracks into genres based on audio features like tempo, energy, and danceability.
 
